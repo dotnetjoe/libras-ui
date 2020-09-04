@@ -71,7 +71,7 @@ const UserPage = () => {
                       title='How it Works'
                       frameBorder='0'
                       allow='autoplay; fullscreen'
-                      allowFullscreen />
+                      allowFullScreen />
                   </div>
                 </ModalWrapper>
               </div>
